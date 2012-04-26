@@ -1,0 +1,102 @@
+
+section{
+
+}
+
+footer{
+	float: left;
+}
+
+header{
+
+}
+
+form#ura{
+	display:none;
+}
+
+
+h1{
+text-align: center;
+
+}
+
+h2{
+	text-align: center;
+
+}
+
+
+#config{
+
+	height: 50px;
+
+}
+
+#wrapp{
+	margin:0 auto;
+	width:88%;
+	float: left;
+
+}
+
+p{
+text-align: center;
+}
+
+#appbody{
+	width: 680px;
+	margin: auto;
+	}
+
+#canvas{
+	border:1px solid #f0ffff;
+	position:absolute;
+	margin: 0 auto;
+	z-index:10;
+	cursor: crosshair;
+	}
+#bg{
+	top:15px;
+	position:absolute;
+	z-index:0;
+	border :2px double gray;
+	}
+#bg2{
+	top:15px;
+	position:absolute;
+	z-index:1;
+	border :2px double gray;
+	}
+#gamestage{
+	display:block;
+	width: 680px;
+	margin: auto;
+	}
+
+
+#rs-button{
+	display: none;
+	}
+
+#stop.button	{
+	display:none;
+	position:absolute;
+	float: left;
+	top:475px;
+	}
+
+.mapbutton	{
+	display:none;
+	position:absolute;
+	float: left;
+	top:670px;
+	}
+
+
+#map.button	{
+	display:none;
+	position:absolute;
+	float: left;
+	top:670px;
+	}
